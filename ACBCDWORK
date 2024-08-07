@@ -1,0 +1,4 @@
+# Define limits
+MAX_DAYS = 14
+MAX_MONTHLY_USES = 150
+MAX_DAILY_USES = 5
